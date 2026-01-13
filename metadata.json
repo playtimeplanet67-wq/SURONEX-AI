@@ -1,0 +1,8 @@
+{
+  "name": "SURONEX AI",
+  "description": "Next-Gen AI Commerce Ecosystem that automates selling, marketing, and customer support using advanced AI agents.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
